@@ -3,6 +3,6 @@
   <app appid="ifijnlpkabaadbomaofammlikicicgmg">
     <updatecheck 
       codebase="https://raw.githubusercontent.com/xiang14tw/chrome-my-tools/main/chrome-my-tools.crx"
-      version="2.3.0" />
+      version="2.3" />
   </app>
 </gupdate>
