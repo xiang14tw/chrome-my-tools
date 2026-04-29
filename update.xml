@@ -2,7 +2,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="ifijnlpkabaadbomaofammlikicicgmg">
     <updatecheck 
-      codebase="https://raw.githubusercontent.com/xiang14tw/chrome-my-tools/main/your-extension.crx"
+      codebase="https://raw.githubusercontent.com/xiang14tw/chrome-my-tools/main/chrome-my-tools.crx"
       version="2.3.0" />
   </app>
 </gupdate>
